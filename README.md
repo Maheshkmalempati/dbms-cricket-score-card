@@ -30,6 +30,10 @@ ENTRIES STORED IN PLAYER TABLE:
 LIVE MATCH SCORE CARD:
 ![Screenshot 2023-11-25 165327](https://github.com/Maheshkmalempati/dbms-cricket-score-card/assets/129890211/32817505-1083-413a-95b3-2019ab2bb614)
 
+RETRIEVES ALL THE DATA FROM TABLES AND DISPLAYS THE RESULT:
+![Screenshot 2023-11-30 143945](https://github.com/Maheshkmalempati/dbms-cricket-score-card/assets/129890211/23c0dcde-69b1-4fb5-bbb6-17ec23da8c1e)
+
+
 
 
 
